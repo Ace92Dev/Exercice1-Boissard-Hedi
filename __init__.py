@@ -1,8 +1,11 @@
-"""todo_cli package
+"""todo_cli (simplifié)
 
-A small MVC-style CLI ToDo list application.
+Structure minimale orientée MVC avec uniquement:
+- models
+- view
+- controller
 
-Run via: `python -m todo_cli` or `python -m todo_cli.cli`.
+Aucune dépendance externe et aucune CLI incluse pour l'instant.
 """
 
 __all__ = [
